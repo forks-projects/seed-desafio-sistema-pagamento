@@ -1,5 +1,2 @@
-# Faça um fork desse repositório
-
-Este é um repositório vazio de propósito. A ideia é que você faça um fork para que eu, Alberto, possa usar o github para ter a chance de olhar vários dos códigos produzido por você e seus(as) colegas da Jornada Dev Eficiente :). 
-
-Durante cada uma das seis semanas eu vou pegar código por amostragem e analisar. Feito isso, vou criar um vídeo anonimizando a pessoa que é dona do código, com as minhas observações e postar isso como material de suporte da funcionalidade :). 
+# Sistema de pagamento
+O código desenvolvido está disponével em: [Desafio 3: Sistema de Pagamento](https://github.com/my-study-area/estudo-dev-eficiente/tree/main/desafios/desafio-3-implementando-servico-pagamento/desafio3-sistema-pagamento)
